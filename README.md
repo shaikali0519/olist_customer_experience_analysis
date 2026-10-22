@@ -1,2 +1,2 @@
 Data: Brazilian E-Commerce Public Dataset by Olist (Kaggle). Download it from Kaggle and import it into SQL Server as described below.
-
+Finding 1: Delivery delay and review score. Of 95,824 delivered orders with reviews, 93.3% arrived on time (avg. 4.29 stars). Orders arriving 1-3 days late averaged 3.29 stars, 4-7 days late 2.10, and 8+ days late 1.70. Even a short delay is associated with a drop of about one star, and the steepest fall happens within the first week.
