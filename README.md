@@ -3,6 +3,7 @@
 **Business question:** Only about 3% of Olist customers buy again. What in the delivery and seller experience hurts customers, and what should the business fix first?
 
 **Tools:** SQL Server (T-SQL: CTEs, window functions, views), Power BI
+
 **Data:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Download it and import the CSVs into SQL Server. Raw data is not included in this repo.
 
 ## Data-quality decisions
